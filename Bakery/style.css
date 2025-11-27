@@ -1,0 +1,41 @@
+.container {
+  background-image: url('Images/drew-coffman-1872.jpg');
+  height: 100vh;
+}
+
+.nav {
+  overflow: hidden;
+}
+
+.logo {
+  width: 40%;
+  float: left;
+  padding: 10px 0 10px 30px;
+}
+
+.logo h2 {
+  text-decoration: none;
+  color: white;
+  font-size: 40px;
+  margin-left: 30px;
+}
+
+.menu {
+  width: 40%;
+  float: left;
+  overflow: hidden;
+  margin-top: 60px;
+  padding-left: 30px;
+}
+
+.menu li {
+  float: right;
+  padding-left: 30px;
+  list-style-type: none;
+}
+
+.menu li a {
+  text-decoration: none;
+  color: white;
+  font-size: 22px;
+}
